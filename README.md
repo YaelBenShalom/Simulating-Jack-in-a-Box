@@ -38,4 +38,4 @@ For visualization, the simulation function plots 4 graphs for the box and jack c
 
 The project animation:
 
-![Animation](https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/videps/ME314-final-project.gif)
+![Animation](https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/videos/ME314-final-project.gif)
