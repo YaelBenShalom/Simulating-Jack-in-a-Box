@@ -1,5 +1,11 @@
-# Simulating Jack in a Box - ME-314 Final Project
-GitHub repository - `https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box`
+# Simulating Jack in a Box
+My final project for Theory of Machine Dynamics (ME-314) course at Northwestern University.
+
+
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Dynamic Simulation](#dynamic-simulation)
 
 
 ## Project Description
@@ -15,7 +21,9 @@ In the projects, both the jack and the box started from rest, in the initial pos
 
 The following image shows the different frames of the dynamic model:
 
-![The system's frames](https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/final-projects%20-%20frames.jpg)
+<p align="center">
+  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/final-projects%20-%20frames.jpg" width="60%">
+</p>
 
 
 ## Dynamic Simulation
@@ -25,17 +33,18 @@ When impact is detected, the function updates the next configuration according t
 
 For visualization, the simulation function plots 4 graphs for the box and jack configurations and velocities:
 
-![Box configuration](https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/box_configuration.png)
+<p align="center">
+  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/box_configuration.png">
+  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/jack_configuration.png">
+</p>
 
+<p align="center">
+  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/box_velocity.png">
+  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/jack_velocity.png">
+</p>
 
-![Jack configuration](https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/jack_configuration.png)
+Jack in a box animation:
 
-
-![Box velocity](https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/box_velocity.png)
-
-
-![Jack velocity](https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/jack_velocity.png)
-
-The project animation:
-
-![Animation](https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/videos/ME314-final-project.gif)
+<p align="center">
+  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/videos/ME314-final-project.gif">
+</p>
