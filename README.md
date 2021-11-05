@@ -26,7 +26,7 @@ In the projects, both the jack and the box started from rest, in the initial pos
 The following image shows the different frames of the dynamic model:
 
 <p align="center">
-  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/final-projects%20-%20frames.jpg" width="60%">
+  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/images/system_sketch.png" width="50%">
 </p>
 
 
