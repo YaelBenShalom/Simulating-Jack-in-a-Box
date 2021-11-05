@@ -2,7 +2,7 @@
 My final project for Theory of Machine Dynamics (ME-314) course at Northwestern University.
 
 <p align="center">
-  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/videos/jack-in-a-box.gif">
+  <img align="center" src="https://github.com/YaelBenShalom/Simulating-Jack-in-a-Box/blob/main/videos/jack-in-a-box.gif" width="50%">
 </p>
 
 
